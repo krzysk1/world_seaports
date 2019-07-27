@@ -1,0 +1,69 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Jorgensens Landing]>
+        <[string8][lname][(S) Jorgensens Landing, Bahamas]>
+        <[string8][icao][MY34]>
+        <[string8][country][bs]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-93.395782 44.739408]>
+        <[float64][height][273.7]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][02]>
+                <[tmvector2d][threshold1][-93.398152 44.735957]>
+                <[tmvector2d][endpoint1][-93.398152 44.735957]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][20]>
+                <[tmvector2d][threshold2][-93.393412 44.742860]>
+                <[tmvector2d][endpoint2][-93.393412 44.742860]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][60.96]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][05]>
+                <[tmvector2d][threshold1][-93.400087 44.736655]>
+                <[tmvector2d][endpoint1][-93.400087 44.736655]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][23]>
+                <[tmvector2d][threshold2][-93.391477 44.742161]>
+                <[tmvector2d][endpoint2][-93.391477 44.742161]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][60.96]>
+            >
+            <[tmsimulator_runway][element][2]
+                <[string8][name1][32]>
+                <[tmvector2d][threshold1][-93.392552 44.736860]>
+                <[tmvector2d][endpoint1][-93.392552 44.736860]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][14]>
+                <[tmvector2d][threshold2][-93.399012 44.741956]>
+                <[tmvector2d][endpoint2][-93.399012 44.741956]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][60.96]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

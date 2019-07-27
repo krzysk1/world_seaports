@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Points North Water Aerodrome]>
+        <[string8][lname][(S) Points North Water Aerodrome, Canada]>
+        <[string8][icao][CKC2]>
+        <[string8][country][ca]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-104.082283 58.266574]>
+        <[float64][height][0.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][09]>
+                <[tmvector2d][threshold1][-104.083049 58.266408]>
+                <[tmvector2d][endpoint1][-104.083049 58.266408]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][27]>
+                <[tmvector2d][threshold2][-104.081517 58.266741]>
+                <[tmvector2d][endpoint2][-104.081517 58.266741]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,64 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Shaktoolik SPB]>
+        <[string8][lname][(S) Shaktoolik SPB]>
+        <[string8][icao][38A]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-161.202537 64.362632]>
+        <[float64][height][0.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][15]>
+                <[tmvector2d][threshold1][-161.203759 64.365630]>
+                <[tmvector2d][endpoint1][-161.203759 64.365630]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][33]>
+                <[tmvector2d][threshold2][-161.201315 64.359633]>
+                <[tmvector2d][endpoint2][-161.201315 64.359633]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][18.29]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][13]>
+                <[tmvector2d][threshold1][-161.211283 64.378544]>
+                <[tmvector2d][endpoint1][-161.211283 64.378544]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][31]>
+                <[tmvector2d][threshold2][-161.210911 64.378322]>
+                <[tmvector2d][endpoint2][-161.210911 64.378322]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][29.87]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][-161.221763 64.377134]>
+                <[float64][heading][341.00]>
+                <[string8][name][New Shak Dock]>
+            >
+            <[tmsimulator_parking_position][element][1]
+                <[tmvector2d][position][-161.156357 64.335586]>
+                <[float64][heading][146.00]>
+                <[string8][name][Townsite Backwater]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

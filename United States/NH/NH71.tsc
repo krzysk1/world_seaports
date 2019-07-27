@@ -1,0 +1,54 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Loons Nest]>
+        <[string8][lname][(S) Loons Nest, NH]>
+        <[string8][icao][NH71]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-71.323126 43.638688]>
+        <[float64][height][153.6]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][06]>
+                <[tmvector2d][threshold1][-71.329050 43.634248]>
+                <[tmvector2d][endpoint1][-71.329050 43.634248]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][24]>
+                <[tmvector2d][threshold2][-71.317202 43.643127]>
+                <[tmvector2d][endpoint2][-71.317202 43.643127]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][60.96]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][16]>
+                <[tmvector2d][threshold1][-71.328138 43.643681]>
+                <[tmvector2d][endpoint1][-71.328138 43.643681]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][34]>
+                <[tmvector2d][threshold2][-71.318113 43.633695]>
+                <[tmvector2d][endpoint2][-71.318113 43.633695]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][60.96]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

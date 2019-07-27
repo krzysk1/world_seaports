@@ -1,0 +1,54 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Kenmore Air Harbor Inc]>
+        <[string8][lname][(S) Kenmore Air Harbor Inc]>
+        <[string8][icao][S60]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-122.259293 47.754820]>
+        <[float64][height][4.3]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][16]>
+                <[tmvector2d][threshold1][-122.259293 47.768535]>
+                <[tmvector2d][endpoint1][-122.259293 47.768535]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][34]>
+                <[tmvector2d][threshold2][-122.259293 47.741105]>
+                <[tmvector2d][endpoint2][-122.259293 47.741105]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][304.80]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][18]>
+                <[tmvector2d][threshold1][-122.257200 47.758686]>
+                <[tmvector2d][endpoint1][-122.257200 47.758686]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][36]>
+                <[tmvector2d][threshold2][-122.261386 47.750954]>
+                <[tmvector2d][endpoint2][-122.261386 47.750954]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][304.80]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

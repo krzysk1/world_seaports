@@ -1,0 +1,69 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Tims Ford]>
+        <[string8][lname][(S) Tims Ford, TN]>
+        <[string8][icao][0TN1]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-86.219988 35.222305]>
+        <[float64][height][239.3]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][03]>
+                <[tmvector2d][threshold1][-86.226500 35.212708]>
+                <[tmvector2d][endpoint1][-86.226500 35.212708]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][21]>
+                <[tmvector2d][threshold2][-86.213477 35.231901]>
+                <[tmvector2d][endpoint2][-86.213477 35.231901]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][243.84]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][09]>
+                <[tmvector2d][threshold1][-86.228381 35.222185]>
+                <[tmvector2d][endpoint1][-86.228381 35.222185]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][27]>
+                <[tmvector2d][threshold2][-86.211595 35.222424]>
+                <[tmvector2d][endpoint2][-86.211595 35.222424]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][152.40]>
+            >
+            <[tmsimulator_runway][element][2]
+                <[string8][name1][13]>
+                <[tmvector2d][threshold1][-86.229121 35.228346]>
+                <[tmvector2d][endpoint1][-86.229121 35.228346]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][31]>
+                <[tmvector2d][threshold2][-86.210855 35.216263]>
+                <[tmvector2d][endpoint2][-86.210855 35.216263]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][213.36]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

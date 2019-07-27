@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Elfin Cove]>
+        <[string8][lname][(S) Elfin Cove, US (Alaska)]>
+        <[string8][icao][PAEL]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-136.347393 58.195184]>
+        <[float64][height][0.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][32]>
+                <[tmvector2d][threshold1][-136.339351 58.182141]>
+                <[tmvector2d][endpoint1][-136.339351 58.182141]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][14]>
+                <[tmvector2d][threshold2][-136.355434 58.208228]>
+                <[tmvector2d][endpoint2][-136.355434 58.208228]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][457.20]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

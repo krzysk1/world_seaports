@@ -1,0 +1,39 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Grand Lake St Marys]>
+        <[string8][lname][(S) Grand Lake St Marys]>
+        <[string8][icao][O12]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-84.490675 40.541019]>
+        <[float64][height][265.5]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][09]>
+                <[tmvector2d][threshold1][-84.503277 40.540350]>
+                <[tmvector2d][endpoint1][-84.503277 40.540350]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][27]>
+                <[tmvector2d][threshold2][-84.478073 40.541689]>
+                <[tmvector2d][endpoint2][-84.478073 40.541689]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][1219.20]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

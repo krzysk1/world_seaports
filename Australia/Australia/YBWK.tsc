@@ -1,0 +1,46 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) BAWAKA]>
+        <[string8][lname][(S) BAWAKA, Australia]>
+        <[string8][icao][YBWK]>
+        <[string8][country][au]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][136.762315 -12.533371]>
+        <[float64][height][0.0]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][136.763395 -12.533143]>
+        <[float64][tower_height][2.1]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][9]>
+                <[tmvector2d][threshold1][136.762077 -12.533347]>
+                <[tmvector2d][endpoint1][136.762077 -12.533347]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][27]>
+                <[tmvector2d][threshold2][136.762553 -12.533395]>
+                <[tmvector2d][endpoint2][136.762553 -12.533395]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][49.99]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+            <[tmsimulator_parking_position][element][0]
+                <[tmvector2d][position][136.762327 -12.533347]>
+                <[float64][heading][113.17]>
+                <[string8][name][New Ramp Start 47]>
+            >
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

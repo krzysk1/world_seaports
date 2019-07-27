@@ -1,0 +1,54 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Cruz Bay]>
+        <[string8][lname][(S) Cruz Bay]>
+        <[string8][icao][X96]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-64.799583 18.336901]>
+        <[float64][height][0.0]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][05]>
+                <[tmvector2d][threshold1][-64.801402 18.334769]>
+                <[tmvector2d][endpoint1][-64.801402 18.334769]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][23]>
+                <[tmvector2d][threshold2][-64.797764 18.339033]>
+                <[tmvector2d][endpoint2][-64.797764 18.339033]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][114.30]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][08]>
+                <[tmvector2d][threshold1][-64.801876 18.336065]>
+                <[tmvector2d][endpoint1][-64.801876 18.336065]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][26]>
+                <[tmvector2d][threshold2][-64.797290 18.337737]>
+                <[tmvector2d][endpoint2][-64.797290 18.337737]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][114.30]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>

@@ -1,0 +1,69 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][airport]>
+        <[string8][sname][(S) Ness Landing]>
+        <[string8][lname][(S) Ness Landing, MI]>
+        <[string8][icao][3MI9]>
+        <[string8][country][us]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][-86.970278 45.903889]>
+        <[float64][height][176.8]>
+        <[float64][size][5000]>
+        <[bool][autoheight][true]>
+        <[list_tmsimulator_scenery_object][objects][]
+        >
+        <[list_tmsimulator_runway][runways][]
+            <[tmsimulator_runway][element][0]
+                <[string8][name1][04]>
+                <[tmvector2d][threshold1][-86.973836 45.900603]>
+                <[tmvector2d][endpoint1][-86.973836 45.900603]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][22]>
+                <[tmvector2d][threshold2][-86.966719 45.907175]>
+                <[tmvector2d][endpoint2][-86.966719 45.907175]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][45.72]>
+            >
+            <[tmsimulator_runway][element][1]
+                <[string8][name1][11]>
+                <[tmvector2d][threshold1][-86.979702 45.905894]>
+                <[tmvector2d][endpoint1][-86.979702 45.905894]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][29]>
+                <[tmvector2d][threshold2][-86.960854 45.901884]>
+                <[tmvector2d][endpoint2][-86.960854 45.901884]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][45.72]>
+            >
+            <[tmsimulator_runway][element][2]
+                <[string8][name1][14]>
+                <[tmvector2d][threshold1][-86.976999 45.908904]>
+                <[tmvector2d][endpoint1][-86.976999 45.908904]>
+                <[string8][appltsys1][none]>
+                <[string8][papi1][none]>
+                <[string8][reil1][none]>
+                <[string8][name2][32]>
+                <[tmvector2d][threshold2][-86.963557 45.898874]>
+                <[tmvector2d][endpoint2][-86.963557 45.898874]>
+                <[string8][appltsys2][none]>
+                <[string8][papi2][none]>
+                <[string8][reil2][none]>
+                <[float64][width][60.96]>
+            >
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>
