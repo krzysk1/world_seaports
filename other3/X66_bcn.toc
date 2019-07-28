@@ -1,0 +1,29 @@
+<[file][][X66_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+			<[light][element][0]
+				<[vector3_float64][position][-64.940697 18.360512 5.000000]>
+				<[vector3_float32][color][0.700000 0.700000 0.700000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.258914 2.462440 51.782791 0]>
+				<[uint32][group_index][0]>
+			>
+			<[light][element][1]
+				<[vector3_float64][position][-64.940697 18.360512 5.000000]>
+				<[vector3_float32][color][1.000000 1.000000 0.000000]>
+				<[float32][intensity][5000.000000]>
+				<[vector4_float32][flashing][1.258914 0.000000 51.782791 0]>
+				<[uint32][group_index][0]>
+			>
+		>
+		<[list_xref][xref_list][]
+			<[xref][element][0]
+				<[string8][name][tower00_tiny_concret_ds_10_08_08]>
+				<[string8][name][tower00_tiny_bricks_ds_11_08_08]>
+				<[vector3_float64][position][-64.940697 18.339567 0]>
+				<[float32][direction][0]>
+			>
+		>
+	>
+>

@@ -1,56 +1,58 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(S) ELK RAPIDS]>
-        <[string8][lname][(S) ELK RAPIDS, Canada]>
-        <[string8][icao][CA2E]>
-        <[string8][country][ca]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-129.904568 54.617693]>
-        <[float64][height][0.0]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-129.904232 54.622198]>
-        <[float64][tower_height][16.5]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][36]>
-                <[tmvector2d][threshold1][-129.907766 54.613716]>
-                <[tmvector2d][endpoint1][-129.907766 54.613716]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][18]>
-                <[tmvector2d][threshold2][-129.901370 54.621670]>
-                <[tmvector2d][endpoint2][-129.901370 54.621670]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][106.68]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-129.903668 54.621801]>
-                <[float64][heading][279.00]>
-                <[string8][name][GA Ramp 1]>
-            >
-            <[tmsimulator_parking_position][element][1]
-                <[tmvector2d][position][-129.903904 54.621962]>
-                <[float64][heading][305.00]>
-                <[string8][name][GA Ramp 2]>
-            >
-            <[tmsimulator_parking_position][element][2]
-                <[tmvector2d][position][-129.904128 54.622021]>
-                <[float64][heading][118.00]>
-                <[string8][name][GA Ramp 3]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(S) ELK RAPIDS]>
+		<[string8][lname][(S) ELK RAPIDS, Canada]>
+		<[string8][icao][CA2E]>
+		<[string8][country][ca]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-129.904568 54.617693]>
+		<[float64][height][0.0]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-129.904232 54.622198]>
+		<[float64][tower_height][16.5]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][36]>
+				<[tmvector2d][threshold1][-129.907766 54.613716]>
+				<[tmvector2d][endpoint1][-129.907766 54.613716]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][18]>
+				<[tmvector2d][threshold2][-129.901370 54.621670]>
+				<[tmvector2d][endpoint2][-129.901370 54.621670]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][106.68]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-129.903668 54.621801]>
+				<[float64][heading][279.00]>
+				<[string8][name][GA Ramp 1]>
+			>
+			<[tmsimulator_parking_position][element][1]
+				<[tmvector2d][position][-129.903904 54.621962]>
+				<[float64][heading][305.00]>
+				<[string8][name][GA Ramp 2]>
+			>
+			<[tmsimulator_parking_position][element][2]
+				<[tmvector2d][position][-129.904128 54.622021]>
+				<[float64][heading][118.00]>
+				<[string8][name][GA Ramp 3]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][CA2E_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

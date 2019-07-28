@@ -1,0 +1,15 @@
+<[file][][Z58_bcn]
+	<[cultivation][][]
+		<[string8][coordinate_system][lonlat]>
+		<[list_light][light_list][]
+		>
+		<[list_xref][xref_list][]
+			<[xref][element][0]
+				<[string8][name][tower00_tiny_concret_ds_10_08_08]>
+				<[string8][name][tower00_tiny_bricks_ds_11_08_08]>
+				<[vector3_float64][position][-161.727405 60.800612 0]>
+				<[float32][direction][0]>
+			>
+		>
+	>
+>

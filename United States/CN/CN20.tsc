@@ -1,44 +1,40 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(S) Ferndale Resort Seaplane Base (PVT)]>
-        <[string8][lname][(S) Ferndale Resort Seaplane Base (PVT), CN]>
-        <[string8][icao][CN20]>
-        <[string8][country][us]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-122.793571 39.030928]>
-        <[float64][height][402.9]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][17]>
-                <[tmvector2d][threshold1][-122.793752 39.051500]>
-                <[tmvector2d][endpoint1][-122.793752 39.051500]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][35]>
-                <[tmvector2d][threshold2][-122.793389 39.010357]>
-                <[tmvector2d][endpoint2][-122.793389 39.010357]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][1218.90]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-122.790924 39.004644]>
-                <[float64][heading][272.55]>
-                <[string8][name][PRIVATE Docks]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(S) Ferndale Resort Seaplane Base (PVT)]>
+		<[string8][lname][(S) Ferndale Resort Seaplane Base (PVT), CN]>
+		<[string8][icao][CN20]>
+		<[string8][country][us]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-122.793571 39.030928]>
+		<[float64][height][402.9]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][17]>
+				<[tmvector2d][threshold1][-122.793752 39.051500]>
+				<[tmvector2d][endpoint1][-122.793752 39.051500]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][35]>
+				<[tmvector2d][threshold2][-122.793389 39.010357]>
+				<[tmvector2d][endpoint2][-122.793389 39.010357]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][1218.90]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-122.790924 39.004644]>
+				<[float64][heading][272.55]>
+				<[string8][name][PRIVATE Docks]>
+			>
+		>
+	>
 >

@@ -1,54 +1,50 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(S) Crystal Lake]>
-        <[string8][lname][(S) Crystal Lake, Nicaragua]>
-        <[string8][icao][MN09]>
-        <[string8][country][ni]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-93.266888 44.722187]>
-        <[float64][height][285.0]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][02]>
-                <[tmvector2d][threshold1][-93.271414 44.714612]>
-                <[tmvector2d][endpoint1][-93.271414 44.714612]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][20]>
-                <[tmvector2d][threshold2][-93.262363 44.729761]>
-                <[tmvector2d][endpoint2][-93.262363 44.729761]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][152.40]>
-            >
-            <[tmsimulator_runway][element][1]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][-93.290020 44.723048]>
-                <[tmvector2d][endpoint1][-93.290020 44.723048]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][-93.243757 44.721325]>
-                <[tmvector2d][endpoint2][-93.243757 44.721325]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][304.80]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(S) Crystal Lake]>
+		<[string8][lname][(S) Crystal Lake, Nicaragua]>
+		<[string8][icao][MN09]>
+		<[string8][country][ni]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-93.266888 44.722187]>
+		<[float64][height][285.0]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][02]>
+				<[tmvector2d][threshold1][-93.271414 44.714612]>
+				<[tmvector2d][endpoint1][-93.271414 44.714612]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][20]>
+				<[tmvector2d][threshold2][-93.262363 44.729761]>
+				<[tmvector2d][endpoint2][-93.262363 44.729761]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][152.40]>
+			>
+			<[tmsimulator_runway][element][1]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][-93.290020 44.723048]>
+				<[tmvector2d][endpoint1][-93.290020 44.723048]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][-93.243757 44.721325]>
+				<[tmvector2d][endpoint2][-93.243757 44.721325]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][304.80]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+		>
+	>
 >

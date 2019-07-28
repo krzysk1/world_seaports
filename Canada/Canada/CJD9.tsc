@@ -1,46 +1,48 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(S) Ignace Seaplane]>
-        <[string8][lname][(S) Ignace Seaplane, Canada]>
-        <[string8][icao][CJD9]>
-        <[string8][country][ca]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-91.676867 49.412617]>
-        <[float64][height][0.0]>
-        <[float64][size][5000]>
-        <[vector2_float64][tower_position][-91.675588 49.413328]>
-        <[float64][tower_height][1.8]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][06]>
-                <[tmvector2d][threshold1][-91.678246 49.412275]>
-                <[tmvector2d][endpoint1][-91.678246 49.412275]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][24]>
-                <[tmvector2d][threshold2][-91.675488 49.412958]>
-                <[tmvector2d][endpoint2][-91.675488 49.412958]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][49.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-91.675511 49.412954]>
-                <[float64][heading][256.26]>
-                <[string8][name][New Ramp Start 2]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(S) Ignace Seaplane]>
+		<[string8][lname][(S) Ignace Seaplane, Canada]>
+		<[string8][icao][CJD9]>
+		<[string8][country][ca]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-91.676867 49.412617]>
+		<[float64][height][0.0]>
+		<[float64][size][5000]>
+		<[vector2_float64][tower_position][-91.675588 49.413328]>
+		<[float64][tower_height][1.8]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][06]>
+				<[tmvector2d][threshold1][-91.678246 49.412275]>
+				<[tmvector2d][endpoint1][-91.678246 49.412275]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][24]>
+				<[tmvector2d][threshold2][-91.675488 49.412958]>
+				<[tmvector2d][endpoint2][-91.675488 49.412958]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][49.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-91.675511 49.412954]>
+				<[float64][heading][256.26]>
+				<[string8][name][New Ramp Start 2]>
+			>
+		>
+		<[list_tmsimulator_scenery_cultivation][cultivation_files][]
+			<[tmsimulator_scenery_cultivation][element][0]
+				<[string8][filename][CJD9_bcn]>
+				<[bool][auto_height][true]>
+			>
+		>
+	>
 >

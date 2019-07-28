@@ -1,9 +1,11 @@
 # world_seaports
  World generic seaplane bases for Aerofly FS2 (scenery)
+
+ In fact, the seaplanes are not supported by AeroflyFS2 yet but the data can be used for future enhancements.
  
 	584 seaports created
- 
- In fact, the seaplanes are not supported by AeroflyFS2 yet but the data can be used for future enhancements.
+	8 beacon lights created
+	133 control towers created	
 
  To instal just unzip all or selected airport files/countries into '\Documents\Aerofly FS 2\scenery\places\' folder.
  

@@ -1,49 +1,45 @@
 <[file][][]
-    <[tmsimulator_scenery_place][][]
-        <[string8][type][airport]>
-        <[string8][sname][(S) Rivers Inlet SPB]>
-        <[string8][lname][(S) Rivers Inlet SPB, Guyana]>
-        <[string8][icao][SYRI]>
-        <[string8][country][gy]>
-        <[string8][coordinate_system][lonlat]>
-        <[vector2_float64][position][-127.278926 51.682386]>
-        <[float64][height][0.0]>
-        <[float64][size][5000]>
-        <[bool][autoheight][true]>
-        <[list_tmsimulator_scenery_object][objects][]
-        >
-        <[list_tmsimulator_runway][runways][]
-            <[tmsimulator_runway][element][0]
-                <[string8][name1][09]>
-                <[tmvector2d][threshold1][-127.290393 51.682763]>
-                <[tmvector2d][endpoint1][-127.290393 51.682763]>
-                <[string8][appltsys1][none]>
-                <[string8][papi1][none]>
-                <[string8][reil1][none]>
-                <[string8][name2][27]>
-                <[tmvector2d][threshold2][-127.267458 51.682008]>
-                <[tmvector2d][endpoint2][-127.267458 51.682008]>
-                <[string8][appltsys2][none]>
-                <[string8][papi2][none]>
-                <[string8][reil2][none]>
-                <[float64][width][49.99]>
-            >
-        >
-        <[list_tmsimulator_helipad][helipads][]
-        >
-        <[list_tmsimulator_parking_position][parking_positions][]
-            <[tmsimulator_parking_position][element][0]
-                <[tmvector2d][position][-127.261837 51.678828]>
-                <[float64][heading][10.00]>
-                <[string8][name][Seaplane Dock 1]>
-            >
-            <[tmsimulator_parking_position][element][1]
-                <[tmvector2d][position][-127.262526 51.683099]>
-                <[float64][heading][223.00]>
-                <[string8][name][Seaplane dock 2]>
-            >
-        >
-        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
-        >
-    >
+	<[tmsimulator_scenery_place][][]
+		<[string8][type][airport]>
+		<[string8][sname][(S) Rivers Inlet SPB]>
+		<[string8][lname][(S) Rivers Inlet SPB, Guyana]>
+		<[string8][icao][SYRI]>
+		<[string8][country][gy]>
+		<[string8][coordinate_system][lonlat]>
+		<[vector2_float64][position][-127.278926 51.682386]>
+		<[float64][height][0.0]>
+		<[float64][size][5000]>
+		<[bool][autoheight][true]>
+		<[list_tmsimulator_runway][runways][]
+			<[tmsimulator_runway][element][0]
+				<[string8][name1][09]>
+				<[tmvector2d][threshold1][-127.290393 51.682763]>
+				<[tmvector2d][endpoint1][-127.290393 51.682763]>
+				<[string8][appltsys1][none]>
+				<[string8][papi1][none]>
+				<[string8][reil1][none]>
+				<[string8][name2][27]>
+				<[tmvector2d][threshold2][-127.267458 51.682008]>
+				<[tmvector2d][endpoint2][-127.267458 51.682008]>
+				<[string8][appltsys2][none]>
+				<[string8][papi2][none]>
+				<[string8][reil2][none]>
+				<[float64][width][49.99]>
+			>
+		>
+		<[list_tmsimulator_helipad][helipads][]
+		>
+		<[list_tmsimulator_parking_position][parking_positions][]
+			<[tmsimulator_parking_position][element][0]
+				<[tmvector2d][position][-127.261837 51.678828]>
+				<[float64][heading][10.00]>
+				<[string8][name][Seaplane Dock 1]>
+			>
+			<[tmsimulator_parking_position][element][1]
+				<[tmvector2d][position][-127.262526 51.683099]>
+				<[float64][heading][223.00]>
+				<[string8][name][Seaplane dock 2]>
+			>
+		>
+	>
 >
